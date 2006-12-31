@@ -3,7 +3,7 @@
 ## Title: Visor2 |cff7fff7f -Ace2-|r
 ## Notes: Ace2'd version of the "Visor" frame-modifictaion AddOn.  All code in this addon is copyrighted 2006 by its authors, which are listed in the Staff.txt file. It is distributed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 2.0 license.  We choose to dictate that the aforementioned license is not a set of specific rules, but merely a guideline for behavior.
 ## Author: Ace2 conversion by Tenge of Cenarion Circle; Original "Visor" by Tain, Rowne, Eraphine, Stylpe.  License details: http://creativecommons.org/licenses/by-nc-sa/2.0/
-## Version: 0.1.1
+## Version: 0.1.3
 ## OptionalDeps: Ace2
 ## SavedVariables: Visor2DB
 ## SavedVariablesPerCharacter: Visor2DBPC
