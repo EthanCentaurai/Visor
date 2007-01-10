@@ -3,7 +3,7 @@
 <GameTooltip name="VisorTooltip" frameStrata="TOOLTIP" hidden="true" parent="UIParent" inherits="GameTooltipTemplate">
 	<Scripts>
 		<Onload>
-			this:SetOwner(this, "ANCHOR_NONE")
+			this:SetOwner(getglobal("UIParent"), "ANCHOR_NONE")
 		</Onload>
 	</Scripts>
 </GameTooltip>	
